@@ -1,4 +1,19 @@
+body{
+    columns: 2;
+}
+
 li {
     list-style-type: none;
     }
+
+
+
+    .madi{
+        display: flex;
+        flex-direction: column;
+    }
     
+    .kolby{
+        display: flex;
+        flex-direction: column;
+    }
